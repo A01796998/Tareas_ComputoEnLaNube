@@ -1,0 +1,4 @@
+﻿  SumaArreglos.cpp
+C:\Users\mikej\Documents\03_EDUCATIVO\01_TEC\02_MATERIAS\04-Cómputo en la nube\02-Modelos de programación\Ejercicios\SumaArreglos\SumaArreglos.cpp(30,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\mikej\Documents\03_EDUCATIVO\01_TEC\02_MATERIAS\04-Cómputo en la nube\02-Modelos de programación\Ejercicios\SumaArreglos\SumaArreglos.cpp(31,19): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  SumaArreglos.vcxproj -> C:\Users\mikej\Documents\03_EDUCATIVO\01_TEC\02_MATERIAS\04-Cómputo en la nube\02-Modelos de programación\Ejercicios\SumaArreglos\x64\Debug\SumaArreglos.exe
